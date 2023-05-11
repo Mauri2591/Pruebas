@@ -1,2 +1,7 @@
 <?php
-echo "hola mundo";
+$saludo="Hola mundo";
+for ($i=0; $i < 10; $i++) {
+        echo "<pre>";
+        echo $saludo;
+        echo "</pre>";
+}
