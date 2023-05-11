@@ -13,6 +13,7 @@
     <main style="text-align: center;">
         <h1>Bienvenidos</h1>
         <h4>Nueva Página</h4>
+        <h5>Nuevo proyecto para practicar</h5>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum voluptatum quas voluptatibus quae voluptatum voluptatibus quae voluptatum voluptatibus quae voluptatum
         <form style="display: grid; width: 35%; margin:0 auto; padding: 5px; border:1px solid gray" action="formulario.php" method="post">
         <label for="nombre">Ingrese nombre:</label>    
