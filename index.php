@@ -28,7 +28,10 @@
         <input type="submit" value="enviar">
         </form>
     </main>
-
+    <article>
+        <h2 style="text-align: center;">Peliculas</h2>
+    </article>
+<script type="text/javascript" src="main.js"></script>
 </body>
 
 </html>

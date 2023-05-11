@@ -1,4 +1,6 @@
 <?php
+echo gettype($_POST);
+
 $nom=$_POST['nom'];
 $ape=$_POST['ape'];
 $pel=$_POST['pelicula'];
